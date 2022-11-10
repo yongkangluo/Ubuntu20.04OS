@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "interrupts.h": "c",
+        "types.h": "c",
+        "syslimits.h": "c",
+        "multiboot.h": "c",
+        "stdarg.h": "c",
+        "cpuid.h": "c"
+    }
+}
